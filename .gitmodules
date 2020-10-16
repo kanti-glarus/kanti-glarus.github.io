@@ -1,0 +1,3 @@
+[submodule "dreisatz"]
+	path = dreisatz
+	url = git@github.com:kanti-glarus/html-dreisatz.git
